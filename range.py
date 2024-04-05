@@ -1,0 +1,6 @@
+B=list(range(10))
+print(B)
+A=list(range(5,11))
+print(A)
+C=list(range(2,101,2))
+print(C)
