@@ -11,7 +11,6 @@ print("Python" not in topics)
 print(topics * 3)
 numbers=[10,34,23,456]
 print(len(numbers))
-print(numbers)
 numbers.append(24)
 print(numbers)
 numbers.insert(2,13)
